@@ -19,7 +19,7 @@ A simple and responsive credit card UI built using HTML and CSS.
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/credit-card-project.git
+   git clone https://github.com/Amine4jh/credit-card-project.git
    ```
 
 2. Open index.html in your browser.
