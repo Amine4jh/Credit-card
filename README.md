@@ -12,14 +12,14 @@ A simple and responsive credit card UI built using HTML and CSS.
 
 ## Technologies Used
 
-- HTML5
-- CSS3 (Flexbox & Grid)
+- HTML
+- CSS
 
 ## How to Use
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Amine4jh/credit-card-project.git
+   git clone https://github.com/Amine4jh/Credit-card.git
    ```
 
 2. Open index.html in your browser.
